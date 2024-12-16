@@ -1,0 +1,4 @@
+train: data_preparation/images_data/Train
+val: data_preparation/images_data/Test
+nc: 20
+names : ['background','aeroplane','bicycle','bird','boat','bottle','bus','car','cat','chair','cow','diningtable','dog','horse','motorbike','person','pottedplant','sheep','sofa','train','tvmonitor']
